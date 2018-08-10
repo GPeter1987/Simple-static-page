@@ -7,3 +7,4 @@ Make this simple webpage for practicing Html and Css.
   - CSS3
   
 # Live version
+  - https://gpeter1987.github.io/Simple-static-page/
